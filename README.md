@@ -25,3 +25,15 @@ The Recipe App is a web application that allows users to create, save, and displ
    ```bash
    git clone https://github.com/Chirag072394/recipe-app.git
 
+2. Installation
+Clone the Repository:
+
+Navigate to the Project Directory:
+
+3. **Install Dependencies: cd recip-app npm install
+
+4. **Start the Application:
+
+npm start The application will be available at http://localhost:3000.
+
+5. **Usage Register/Login: Users can register and log in to access the app. Create Post: Logged-in users can create new posts. Like Post: Users can like posts to show appreciation. Update Post: Users can update their posts
